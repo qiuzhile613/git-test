@@ -21,5 +21,7 @@ public class GitTest {
 
         System.out.println ("push commit!");
         System.out.println ("push commit2!");
+
+        System.out.println ("pull commit!");
     }
 }
