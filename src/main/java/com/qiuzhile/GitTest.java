@@ -20,5 +20,6 @@ public class GitTest {
         System.out.println ("Hot-fix test!");
 
         System.out.println ("push commit!");
+        System.out.println ("push commit2!");
     }
 }
